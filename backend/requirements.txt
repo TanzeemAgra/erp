@@ -79,10 +79,12 @@ tiktoken>=0.7.0
 # ----------------------------
 # Production & Deployment
 # ----------------------------
+setuptools==69.0.0
 gunicorn>=21.2.0
 whitenoise>=6.5.0
 dj-database-url>=2.1.0
 python-dotenv>=1.0.0
+wheel>=0.41.0
 
 # ----------------------------
 # Testing & Code Quality

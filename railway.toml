@@ -1,0 +1,10 @@
+[build]
+builder = "NIXPACKS"
+buildCommand = "chmod +x build.sh && ./build.sh"
+
+[deploy]
+startCommand = "cd backend && gunicorn erp_core.wsgi:application --bind 0.0.0.0:$PORT"
+healthcheckPath = "/"
+healthcheckTimeout = 100
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 10

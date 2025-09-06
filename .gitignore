@@ -266,3 +266,4 @@ backend/logs/*.log
 .env.production.local
 config.json
 secrets.json
+venv
