@@ -11,15 +11,20 @@ from django.conf import settings
 from django.contrib.auth import get_user_model
 from django.db.models import Q
 
-# AI/ML imports
-from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import FAISS
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.chains import RetrievalQA
-from langchain_openai import OpenAI
-from langchain.prompts import PromptTemplate
-from langchain.schema import Document
-import openai
+# AI/ML imports with error handling
+try:
+    from langchain_openai import OpenAIEmbeddings
+    from langchain_community.vectorstores import FAISS
+    from langchain.text_splitter import RecursiveCharacterTextSplitter
+    from langchain.chains import RetrievalQA
+    from langchain_openai import OpenAI
+    from langchain.prompts import PromptTemplate
+    from langchain.schema import Document
+    import openai
+    LANGCHAIN_AVAILABLE = True
+except ImportError as e:
+    print(f"Warning: LangChain dependencies not available: {e}")
+    LANGCHAIN_AVAILABLE = False
 
 # ERP Models
 from accounts.models import User
@@ -63,6 +68,9 @@ class SmartChatbotService:
     """
     
     def __init__(self):
+        if not LANGCHAIN_AVAILABLE:
+            raise ImportError("LangChain dependencies are not available. Please install required packages.")
+            
         self.openai_api_key = getattr(settings, 'OPENAI_API_KEY', os.getenv('OPENAI_API_KEY'))
         if not self.openai_api_key:
             raise ValueError("OpenAI API key not found. Please set OPENAI_API_KEY in settings or environment.")
