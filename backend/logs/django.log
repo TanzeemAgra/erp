@@ -1,0 +1,255 @@
+INFO 2025-08-28 22:00:17,996 autoreload 9628 15396 Watching for file changes with StatReloader
+INFO 2025-08-28 22:00:34,411 autoreload 9844 6240 Watching for file changes with StatReloader
+INFO 2025-08-29 21:04:46,013 autoreload 10632 7636 Watching for file changes with StatReloader
+INFO 2025-08-29 21:20:09,306 autoreload 416 280 Watching for file changes with StatReloader
+WARNING 2025-08-29 21:26:04,310 log 10632 7772 Not Found: /
+WARNING 2025-08-29 21:41:42,718 log 10632 7756 Unauthorized: /api/v1/auth/login/
+WARNING 2025-08-29 21:41:58,253 log 10632 7756 Unauthorized: /api/v1/auth/login/
+WARNING 2025-08-29 21:42:29,755 log 10632 7756 Unauthorized: /api/v1/auth/login/
+INFO 2025-08-29 21:44:08,387 autoreload 11272 11696 Watching for file changes with StatReloader
+WARNING 2025-08-29 21:46:19,346 log 10632 7708 Unauthorized: /api/v1/auth/login/
+INFO 2025-08-29 21:47:13,693 autoreload 10632 7636 C:\Users\Xerxez Solutions\Desktop\ERP\backend\accounts\serializers.py changed, reloading.
+INFO 2025-08-29 21:47:15,193 autoreload 2784 13896 Watching for file changes with StatReloader
+INFO 2025-08-29 21:47:23,038 autoreload 2784 13896 C:\Users\Xerxez Solutions\Desktop\ERP\backend\accounts\serializers.py changed, reloading.
+INFO 2025-08-29 21:47:24,327 autoreload 18588 8088 Watching for file changes with StatReloader
+INFO 2025-08-29 21:47:37,711 autoreload 18588 8088 C:\Users\Xerxez Solutions\Desktop\ERP\backend\accounts\views.py changed, reloading.
+INFO 2025-08-29 21:47:39,132 autoreload 16076 17296 Watching for file changes with StatReloader
+INFO 2025-08-29 21:47:44,653 autoreload 16076 17296 C:\Users\Xerxez Solutions\Desktop\ERP\backend\accounts\views.py changed, reloading.
+INFO 2025-08-29 21:47:46,059 autoreload 11660 10356 Watching for file changes with StatReloader
+INFO 2025-08-29 21:47:50,596 autoreload 11660 10356 C:\Users\Xerxez Solutions\Desktop\ERP\backend\accounts\urls.py changed, reloading.
+INFO 2025-08-29 21:47:52,031 autoreload 12128 13876 Watching for file changes with StatReloader
+INFO 2025-08-29 21:47:57,451 autoreload 12128 13876 C:\Users\Xerxez Solutions\Desktop\ERP\backend\accounts\urls.py changed, reloading.
+INFO 2025-08-29 21:47:58,593 autoreload 2932 4876 Watching for file changes with StatReloader
+WARNING 2025-08-29 21:48:07,835 log 2932 4040 Unauthorized: /api/v1/auth/login/
+INFO 2025-08-29 21:48:30,025 autoreload 8356 8784 Watching for file changes with StatReloader
+INFO 2025-08-29 21:48:59,965 autoreload 16608 3488 Watching for file changes with StatReloader
+INFO 2025-08-29 21:50:28,611 autoreload 18128 5036 Watching for file changes with StatReloader
+INFO 2025-08-29 21:51:03,361 autoreload 14220 3016 Watching for file changes with StatReloader
+INFO 2025-08-29 21:51:50,925 autoreload 4772 4028 Watching for file changes with StatReloader
+INFO 2025-08-29 21:55:17,953 autoreload 9828 1236 Watching for file changes with StatReloader
+INFO 2025-08-29 22:00:00,489 autoreload 2480 15396 Watching for file changes with StatReloader
+INFO 2025-09-02 21:08:02,839 autoreload 3012 20456 Watching for file changes with StatReloader
+WARNING 2025-09-02 21:09:26,061 log 3012 13824 Unauthorized: /api/v1/auth/login/
+INFO 2025-09-02 21:29:31,502 autoreload 3012 20456 C:\Users\Xerxez Solutions\Desktop\ERP\backend\projects\models.py changed, reloading.
+INFO 2025-09-02 21:29:33,125 autoreload 14140 6320 Watching for file changes with StatReloader
+INFO 2025-09-02 21:30:38,996 autoreload 14140 6320 C:\Users\Xerxez Solutions\Desktop\ERP\backend\projects\views.py changed, reloading.
+INFO 2025-09-02 21:30:41,015 autoreload 16380 12032 Watching for file changes with StatReloader
+INFO 2025-09-02 21:30:52,958 autoreload 16380 12032 C:\Users\Xerxez Solutions\Desktop\ERP\backend\projects\urls.py changed, reloading.
+INFO 2025-09-02 21:30:55,203 autoreload 8592 1380 Watching for file changes with StatReloader
+INFO 2025-09-02 21:31:43,317 autoreload 11168 4448 Watching for file changes with StatReloader
+INFO 2025-09-02 21:43:39,340 autoreload 18708 17532 Watching for file changes with StatReloader
+WARNING 2025-09-02 21:44:26,417 log 18708 20300 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-02 21:44:26,418 log 18708 9904 Not Found: /api/projects/tasks/
+WARNING 2025-09-02 21:44:26,420 log 18708 4296 Not Found: /api/projects/projects/
+WARNING 2025-09-02 21:44:26,543 log 18708 20300 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-02 21:44:26,548 log 18708 9904 Not Found: /api/projects/tasks/
+WARNING 2025-09-02 21:44:26,555 log 18708 4296 Not Found: /api/projects/projects/
+INFO 2025-09-02 21:45:38,963 autoreload 8052 10264 Watching for file changes with StatReloader
+INFO 2025-09-02 21:45:48,292 autoreload 8052 10264 C:\Users\Xerxez Solutions\Desktop\ERP\backend\projects\serializers.py changed, reloading.
+INFO 2025-09-02 21:45:48,317 autoreload 18708 17532 C:\Users\Xerxez Solutions\Desktop\ERP\backend\projects\views.py changed, reloading.
+INFO 2025-09-02 21:45:50,857 autoreload 20176 4044 Watching for file changes with StatReloader
+INFO 2025-09-02 21:45:50,908 autoreload 18320 1268 Watching for file changes with StatReloader
+WARNING 2025-09-02 21:47:50,437 log 18320 14004 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-02 21:47:50,438 log 18320 11076 Not Found: /api/projects/tasks/
+WARNING 2025-09-02 21:47:50,443 log 18320 12476 Not Found: /api/projects/projects/
+WARNING 2025-09-02 21:47:50,632 log 18320 14004 Not Found: /api/projects/tasks/
+WARNING 2025-09-02 21:47:50,637 log 18320 20280 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-02 21:47:50,641 log 18320 11076 Not Found: /api/projects/projects/
+INFO 2025-09-02 21:48:25,906 autoreload 18320 1268 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\models.py changed, reloading.
+INFO 2025-09-02 21:48:25,952 autoreload 20176 4044 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\models.py changed, reloading.
+INFO 2025-09-02 21:48:28,458 autoreload 16960 19356 Watching for file changes with StatReloader
+INFO 2025-09-02 21:48:28,472 autoreload 16296 12388 Watching for file changes with StatReloader
+INFO 2025-09-02 21:49:30,025 autoreload 16296 12388 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\views.py changed, reloading.
+INFO 2025-09-02 21:49:30,065 autoreload 16960 19356 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\views.py changed, reloading.
+INFO 2025-09-02 21:49:32,719 autoreload 9736 16460 Watching for file changes with StatReloader
+INFO 2025-09-02 21:49:32,729 autoreload 12908 16928 Watching for file changes with StatReloader
+INFO 2025-09-02 21:49:46,906 autoreload 12908 16928 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\urls.py changed, reloading.
+INFO 2025-09-02 21:49:47,044 autoreload 9736 16460 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\urls.py changed, reloading.
+INFO 2025-09-02 21:49:49,451 autoreload 18704 15248 Watching for file changes with StatReloader
+INFO 2025-09-02 21:49:49,502 autoreload 17492 7520 Watching for file changes with StatReloader
+INFO 2025-09-02 21:50:01,521 autoreload 17492 7520 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\admin.py changed, reloading.
+INFO 2025-09-02 21:50:01,545 autoreload 18704 15248 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\admin.py changed, reloading.
+INFO 2025-09-02 21:50:03,987 autoreload 20268 16848 Watching for file changes with StatReloader
+INFO 2025-09-02 21:50:03,987 autoreload 12732 18820 Watching for file changes with StatReloader
+INFO 2025-09-02 21:52:04,072 autoreload 12476 14004 Watching for file changes with StatReloader
+INFO 2025-09-02 21:55:56,347 autoreload 12732 18820 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\serializers.py changed, reloading.
+INFO 2025-09-02 21:55:58,562 autoreload 15096 8288 Watching for file changes with StatReloader
+WARNING 2025-09-02 21:56:44,732 log 15096 16928 Not Found: /api/crm/users/
+WARNING 2025-09-02 21:56:44,737 log 15096 17532 Not Found: /api/crm/choices/
+WARNING 2025-09-02 21:56:44,783 log 15096 9460 Not Found: /api/crm/clients/
+WARNING 2025-09-02 21:56:44,801 log 15096 13256 Not Found: /api/crm/clients/dashboard/
+WARNING 2025-09-02 21:56:45,003 log 15096 16928 Not Found: /api/crm/users/
+WARNING 2025-09-02 21:56:45,010 log 15096 17532 Not Found: /api/crm/choices/
+WARNING 2025-09-02 21:56:45,023 log 15096 13956 Not Found: /api/crm/clients/
+WARNING 2025-09-02 21:56:45,042 log 15096 13256 Not Found: /api/crm/clients/dashboard/
+WARNING 2025-09-02 21:57:58,883 log 15096 17532 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-02 21:57:58,941 log 15096 13256 Not Found: /api/projects/projects/
+WARNING 2025-09-02 21:57:58,961 log 15096 13956 Not Found: /api/projects/tasks/
+WARNING 2025-09-02 21:57:59,163 log 15096 16928 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-02 21:57:59,181 log 15096 17532 Not Found: /api/projects/projects/
+WARNING 2025-09-02 21:57:59,209 log 15096 13956 Not Found: /api/projects/tasks/
+WARNING 2025-09-02 21:58:01,244 log 15096 17532 Not Found: /api/crm/clients/
+WARNING 2025-09-02 21:58:01,259 log 15096 16928 Not Found: /api/crm/users/
+WARNING 2025-09-02 21:58:01,305 log 15096 13256 Not Found: /api/crm/choices/
+WARNING 2025-09-02 21:58:01,333 log 15096 13956 Not Found: /api/crm/clients/dashboard/
+WARNING 2025-09-02 21:58:01,457 log 15096 9460 Not Found: /api/crm/clients/
+WARNING 2025-09-02 21:58:01,471 log 15096 16928 Not Found: /api/crm/users/
+WARNING 2025-09-02 21:58:01,492 log 15096 17532 Not Found: /api/crm/choices/
+WARNING 2025-09-02 21:58:01,511 log 15096 13956 Not Found: /api/crm/clients/dashboard/
+INFO 2025-09-02 21:58:12,543 autoreload 7820 9812 Watching for file changes with StatReloader
+WARNING 2025-09-02 21:58:29,398 log 15096 5812 Unauthorized: /api/v1/crm/clients/
+INFO 2025-09-02 21:58:56,227 autoreload 15096 8288 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\views.py changed, reloading.
+INFO 2025-09-02 21:58:58,121 autoreload 15400 7100 Watching for file changes with StatReloader
+INFO 2025-09-02 21:59:17,231 autoreload 15400 7100 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\views.py changed, reloading.
+INFO 2025-09-02 21:59:19,117 autoreload 19492 13420 Watching for file changes with StatReloader
+INFO 2025-09-02 21:59:36,284 autoreload 19492 13420 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\views.py changed, reloading.
+INFO 2025-09-02 21:59:37,857 autoreload 15324 7296 Watching for file changes with StatReloader
+INFO 2025-09-02 21:59:53,854 autoreload 15324 7296 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\views.py changed, reloading.
+INFO 2025-09-02 21:59:55,830 autoreload 15348 3164 Watching for file changes with StatReloader
+INFO 2025-09-02 22:00:04,923 autoreload 15348 3164 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\views.py changed, reloading.
+INFO 2025-09-02 22:00:06,689 autoreload 17480 16704 Watching for file changes with StatReloader
+INFO 2025-09-02 22:01:18,618 autoreload 17480 16704 C:\Users\Xerxez Solutions\Desktop\ERP\backend\crm\views.py changed, reloading.
+INFO 2025-09-02 22:01:21,608 autoreload 3360 656 Watching for file changes with StatReloader
+INFO 2025-09-03 10:20:30,687 autoreload 11136 20044 Watching for file changes with StatReloader
+WARNING 2025-09-03 10:23:17,984 log 11136 16584 Not Found: /api/projects/projects/
+WARNING 2025-09-03 10:23:18,001 log 11136 3744 Not Found: /api/projects/tasks/
+WARNING 2025-09-03 10:23:18,002 log 11136 13568 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-03 10:23:18,089 log 11136 17300 Not Found: /api/projects/tasks/
+WARNING 2025-09-03 10:23:18,092 log 11136 16584 Not Found: /api/projects/projects/
+WARNING 2025-09-03 10:23:18,100 log 11136 13568 Not Found: /api/projects/projects/dashboard_stats/
+INFO 2025-09-03 10:26:41,823 autoreload 11136 20044 C:\Users\Xerxez Solutions\Desktop\ERP\backend\finance\models.py changed, reloading.
+INFO 2025-09-03 10:26:43,707 autoreload 19680 14056 Watching for file changes with StatReloader
+INFO 2025-09-03 10:29:42,882 autoreload 19680 14056 C:\Users\Xerxez Solutions\Desktop\ERP\backend\finance\views.py changed, reloading.
+INFO 2025-09-03 10:29:44,380 autoreload 9980 8948 Watching for file changes with StatReloader
+INFO 2025-09-03 10:30:10,993 autoreload 9980 8948 C:\Users\Xerxez Solutions\Desktop\ERP\backend\finance\urls.py changed, reloading.
+INFO 2025-09-03 10:30:12,273 autoreload 20188 12540 Watching for file changes with StatReloader
+INFO 2025-09-03 10:30:32,073 autoreload 20188 12540 C:\Users\Xerxez Solutions\Desktop\ERP\backend\finance\admin.py changed, reloading.
+INFO 2025-09-03 10:30:33,498 autoreload 9400 13524 Watching for file changes with StatReloader
+INFO 2025-09-03 10:36:19,937 autoreload 2600 17088 Watching for file changes with StatReloader
+WARNING 2025-09-03 10:37:13,905 log 9400 11364 Not Found: /api/currencies/
+WARNING 2025-09-03 10:37:15,972 log 9400 11680 Not Found: /api/account-types/
+WARNING 2025-09-03 10:37:18,053 log 9400 10660 Not Found: /api/accounts/
+WARNING 2025-09-03 10:37:20,145 log 9400 3496 Not Found: /api/vendors/
+WARNING 2025-09-03 10:37:22,237 log 9400 12368 Not Found: /api/customers/
+WARNING 2025-09-03 10:37:24,337 log 9400 9656 Not Found: /api/invoices/
+WARNING 2025-09-03 10:37:26,437 log 9400 14520 Not Found: /api/expenses/
+WARNING 2025-09-03 10:37:28,549 log 9400 4544 Not Found: /api/expense-categories/
+WARNING 2025-09-03 10:37:30,637 log 9400 17384 Not Found: /api/budgets/
+WARNING 2025-09-03 10:37:32,722 log 9400 18364 Not Found: /api/budget-categories/
+WARNING 2025-09-03 10:37:34,914 log 9400 17336 Not Found: /api/journal-entries/
+WARNING 2025-09-03 10:37:37,021 log 9400 852 Not Found: /api/financial-forecasts/
+WARNING 2025-09-03 10:37:39,121 log 9400 10848 Not Found: /api/anomaly-detections/
+WARNING 2025-09-03 10:37:41,221 log 9400 13540 Not Found: /api/tax-authorities/
+WARNING 2025-09-03 10:37:43,306 log 9400 4416 Not Found: /api/tax-rates/
+WARNING 2025-09-03 10:37:45,393 log 9400 276 Not Found: /api/currencies/1/update_exchange_rates/
+WARNING 2025-09-03 10:37:47,504 log 9400 9468 Not Found: /api/financial-forecasts/generate_forecast/
+WARNING 2025-09-03 10:37:49,605 log 9400 4768 Not Found: /api/anomaly-detections/detect_anomalies/
+WARNING 2025-09-03 10:37:51,708 log 9400 3476 Not Found: /api/budgets/1/variance_analysis/
+WARNING 2025-09-03 10:37:53,872 log 9400 3188 Not Found: /api/invoices/aging_report/
+WARNING 2025-09-03 10:39:09,056 log 9400 19448 Unauthorized: /api/v1/finance/currencies/
+WARNING 2025-09-03 10:39:11,123 log 9400 14816 Unauthorized: /api/v1/finance/account-types/
+WARNING 2025-09-03 10:39:13,172 log 9400 9436 Unauthorized: /api/v1/finance/accounts/
+WARNING 2025-09-03 10:39:15,190 log 9400 880 Unauthorized: /api/v1/finance/vendors/
+WARNING 2025-09-03 10:39:17,271 log 9400 18196 Unauthorized: /api/v1/finance/customers/
+WARNING 2025-09-03 10:39:19,340 log 9400 19936 Unauthorized: /api/v1/finance/invoices/
+WARNING 2025-09-03 10:39:21,436 log 9400 8924 Unauthorized: /api/v1/finance/expenses/
+WARNING 2025-09-03 10:39:23,514 log 9400 15404 Not Found: /api/v1/finance/expense-categories/
+WARNING 2025-09-03 10:39:25,623 log 9400 15604 Unauthorized: /api/v1/finance/budgets/
+WARNING 2025-09-03 10:39:27,680 log 9400 9860 Not Found: /api/v1/finance/budget-categories/
+WARNING 2025-09-03 10:39:29,791 log 9400 11088 Unauthorized: /api/v1/finance/journal-entries/
+WARNING 2025-09-03 10:39:31,844 log 9400 1300 Not Found: /api/v1/finance/financial-forecasts/
+WARNING 2025-09-03 10:39:33,962 log 9400 7312 Not Found: /api/v1/finance/anomaly-detections/
+WARNING 2025-09-03 10:39:36,106 log 9400 2336 Not Found: /api/v1/finance/tax-authorities/
+WARNING 2025-09-03 10:39:38,242 log 9400 17628 Not Found: /api/v1/finance/tax-rates/
+WARNING 2025-09-03 10:39:40,393 log 9400 15448 Not Found: /api/v1/finance/currencies/1/update_exchange_rates/
+WARNING 2025-09-03 10:39:42,508 log 9400 20388 Not Found: /api/v1/finance/financial-forecasts/generate_forecast/
+WARNING 2025-09-03 10:39:44,633 log 9400 7220 Not Found: /api/v1/finance/anomaly-detections/detect_anomalies/
+WARNING 2025-09-03 10:39:46,755 log 9400 1800 Unauthorized: /api/v1/finance/budgets/1/variance_analysis/
+WARNING 2025-09-03 10:39:48,821 log 9400 20324 Unauthorized: /api/v1/finance/invoices/aging_report/
+INFO 2025-09-03 10:42:31,815 autoreload 9400 13524 C:\Users\Xerxez Solutions\Desktop\ERP\backend\finance\models.py changed, reloading.
+INFO 2025-09-03 10:42:32,374 autoreload 2600 17088 C:\Users\Xerxez Solutions\Desktop\ERP\backend\finance\views.py changed, reloading.
+INFO 2025-09-03 10:42:33,664 autoreload 3440 19720 Watching for file changes with StatReloader
+INFO 2025-09-03 10:42:34,197 autoreload 76 16544 Watching for file changes with StatReloader
+INFO 2025-09-03 10:58:42,983 autoreload 13076 9712 Watching for file changes with StatReloader
+INFO 2025-09-03 11:33:11,160 autoreload 1856 10960 Watching for file changes with StatReloader
+INFO 2025-09-04 21:02:58,981 autoreload 20592 22876 Watching for file changes with StatReloader
+WARNING 2025-09-04 21:08:07,225 log 20592 12888 Not Found: /api/projects/projects/
+WARNING 2025-09-04 21:08:07,227 log 20592 8772 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-04 21:08:07,228 log 20592 21968 Not Found: /api/projects/tasks/
+WARNING 2025-09-04 21:08:07,325 log 20592 21968 Not Found: /api/projects/tasks/
+WARNING 2025-09-04 21:08:07,329 log 20592 12888 Not Found: /api/projects/projects/
+WARNING 2025-09-04 21:08:07,333 log 20592 8772 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-04 21:12:08,588 log 20592 21968 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-04 21:12:08,594 log 20592 12888 Not Found: /api/projects/projects/
+WARNING 2025-09-04 21:12:08,598 log 20592 8772 Not Found: /api/projects/tasks/
+WARNING 2025-09-04 21:12:08,694 log 20592 21968 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-04 21:12:08,700 log 20592 12888 Not Found: /api/projects/tasks/
+WARNING 2025-09-04 21:12:08,704 log 20592 5880 Not Found: /api/projects/projects/
+INFO 2025-09-04 21:23:24,460 autoreload 20592 22876 C:\Users\Xerxez Solutions\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\status_codes.py changed, reloading.
+INFO 2025-09-04 21:23:27,032 autoreload 22648 23952 Watching for file changes with StatReloader
+INFO 2025-09-04 21:26:56,547 autoreload 22648 23952 C:\Users\Xerxez Solutions\Desktop\ERP\backend\erp_core\urls.py changed, reloading.
+INFO 2025-09-04 21:26:58,618 autoreload 8432 3440 Watching for file changes with StatReloader
+INFO 2025-09-04 21:27:06,084 autoreload 8432 3440 C:\Users\Xerxez Solutions\Desktop\ERP\backend\erp_core\settings.py changed, reloading.
+INFO 2025-09-04 21:27:08,262 autoreload 9924 22532 Watching for file changes with StatReloader
+INFO 2025-09-04 21:27:17,424 autoreload 9924 22532 C:\Users\Xerxez Solutions\Desktop\ERP\backend\erp_core\settings.py changed, reloading.
+INFO 2025-09-04 21:27:19,402 autoreload 7708 11720 Watching for file changes with StatReloader
+INFO 2025-09-04 21:28:12,842 autoreload 7708 11720 C:\Users\Xerxez Solutions\Desktop\ERP\backend\chatbot\services.py changed, reloading.
+INFO 2025-09-04 21:28:15,152 autoreload 1800 6136 Watching for file changes with StatReloader
+INFO 2025-09-04 21:28:33,380 autoreload 1800 6136 C:\Users\Xerxez Solutions\Desktop\ERP\backend\chatbot\services.py changed, reloading.
+INFO 2025-09-04 21:28:35,525 autoreload 1940 12976 Watching for file changes with StatReloader
+INFO 2025-09-04 21:28:51,168 autoreload 1940 12976 C:\Users\Xerxez Solutions\Desktop\ERP\backend\chatbot\services.py changed, reloading.
+INFO 2025-09-04 21:28:53,285 autoreload 11408 9276 Watching for file changes with StatReloader
+INFO 2025-09-04 21:29:06,436 autoreload 11408 9276 C:\Users\Xerxez Solutions\Desktop\ERP\backend\chatbot\services.py changed, reloading.
+INFO 2025-09-04 21:29:08,603 autoreload 10728 15348 Watching for file changes with StatReloader
+INFO 2025-09-04 21:39:45,997 autoreload 10728 15348 C:\Users\Xerxez Solutions\Desktop\ERP\backend\erp_core\settings.py changed, reloading.
+INFO 2025-09-04 21:39:48,841 autoreload 18936 17884 Watching for file changes with StatReloader
+INFO 2025-09-04 21:46:44,199 autoreload 18936 17884 C:\Users\Xerxez Solutions\Desktop\ERP\backend\erp_core\settings.py changed, reloading.
+INFO 2025-09-04 21:46:47,632 autoreload 14652 12240 Watching for file changes with StatReloader
+INFO 2025-09-04 21:47:08,731 autoreload 14652 12240 C:\Users\Xerxez Solutions\Desktop\ERP\backend\erp_core\settings.py changed, reloading.
+INFO 2025-09-04 21:47:11,383 autoreload 8836 23860 Watching for file changes with StatReloader
+INFO 2025-09-04 21:47:34,842 autoreload 8836 23860 C:\Users\Xerxez Solutions\Desktop\ERP\backend\erp_core\settings.py changed, reloading.
+INFO 2025-09-04 21:47:37,512 autoreload 10228 22872 Watching for file changes with StatReloader
+INFO 2025-09-04 21:49:48,533 autoreload 23724 4968 Watching for file changes with StatReloader
+INFO 2025-09-04 21:51:19,834 autoreload 23724 4968 C:\Users\Xerxez Solutions\Desktop\ERP\backend\erp_core\middleware.py changed, reloading.
+INFO 2025-09-04 21:51:23,598 autoreload 6412 11840 Watching for file changes with StatReloader
+WARNING 2025-09-04 22:13:06,118 services 20544 14404 Models not trained. Using fallback prediction.
+ERROR 2025-09-04 22:13:06,119 services 20544 14404 Error predicting demand: 'float' object has no attribute 'get'
+WARNING 2025-09-04 22:13:44,074 services 22544 2924 Models not trained. Using fallback prediction.
+ERROR 2025-09-04 22:14:14,927 services 14084 1280 Error calculating optimal price: 'float' object has no attribute 'get'
+ERROR 2025-09-04 22:18:50,194 services 20824 20844 Error calculating optimal price: 'float' object has no attribute 'get'
+WARNING 2025-09-04 22:19:15,549 services 8592 6068 Models not trained. Using fallback prediction.
+ERROR 2025-09-04 22:19:15,662 services 8592 6068 Error calculating optimal price: 'float' object has no attribute 'get'
+WARNING 2025-09-04 22:19:15,740 services 8592 6068 Models not trained. Using fallback prediction.
+ERROR 2025-09-04 22:19:15,749 services 8592 6068 Error calculating optimal price: 'float' object has no attribute 'get'
+WARNING 2025-09-04 22:20:30,885 services 19744 21420 Models not trained. Using fallback prediction.
+ERROR 2025-09-04 22:20:30,941 services 19744 21420 Error calculating optimal price: 'float' object has no attribute 'get'
+WARNING 2025-09-04 22:20:30,996 services 19744 21420 Models not trained. Using fallback prediction.
+ERROR 2025-09-04 22:20:31,002 services 19744 21420 Error calculating optimal price: 'float' object has no attribute 'get'
+WARNING 2025-09-04 22:21:09,941 services 14848 1904 Models not trained. Using fallback prediction.
+ERROR 2025-09-04 22:21:10,025 services 14848 1904 Error calculating optimal price: 'float' object has no attribute 'get'
+WARNING 2025-09-04 22:21:10,093 services 14848 1904 Models not trained. Using fallback prediction.
+ERROR 2025-09-04 22:21:10,100 services 14848 1904 Error calculating optimal price: 'float' object has no attribute 'get'
+ERROR 2025-09-04 22:21:10,134 services 14848 1904 Error analyzing logistics risks: name 'models' is not defined
+INFO 2025-09-04 22:21:29,809 autoreload 15812 16352 Watching for file changes with StatReloader
+INFO 2025-09-04 22:22:56,045 middleware 15812 9060 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:22:56,046 middleware 15812 10396 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:22:56,048 middleware 15812 22736 CORS Request from origin: http://localhost:3000
+WARNING 2025-09-04 22:22:56,293 log 15812 9060 Not Found: /api/projects/projects/
+WARNING 2025-09-04 22:22:56,296 log 15812 22736 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-04 22:22:56,298 log 15812 10396 Not Found: /api/projects/tasks/
+INFO 2025-09-04 22:22:56,300 middleware 15812 9060 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:22:56,302 middleware 15812 22736 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:22:56,304 middleware 15812 10396 CORS Request from origin: http://localhost:3000
+WARNING 2025-09-04 22:22:56,412 log 15812 22736 Not Found: /api/projects/projects/dashboard_stats/
+WARNING 2025-09-04 22:22:56,417 log 15812 9060 Not Found: /api/projects/projects/
+WARNING 2025-09-04 22:22:56,421 log 15812 10396 Not Found: /api/projects/tasks/
+INFO 2025-09-04 22:22:59,227 middleware 15812 10396 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:22:59,230 middleware 15812 22736 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:22:59,231 middleware 15812 9060 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:22:59,250 middleware 15812 22036 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:22:59,353 middleware 15812 22036 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:23:00,042 middleware 15812 22736 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:23:00,441 middleware 15812 10396 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:23:00,596 middleware 15812 9060 CORS Request from origin: http://localhost:3000
+INFO 2025-09-04 22:27:05,487 autoreload 15812 16352 C:\Users\Xerxez Solutions\Desktop\ERP\backend\ai_supply_chain\admin.py changed, reloading.
+INFO 2025-09-04 22:27:09,247 autoreload 22564 17344 Watching for file changes with StatReloader

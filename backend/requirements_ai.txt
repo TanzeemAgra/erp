@@ -1,0 +1,45 @@
+# AI Supply Chain Optimization Requirements
+# Additional dependencies for machine learning and data processing
+
+# Core ML libraries
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Advanced analytics and visualization
+scipy>=1.10.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Additional libraries for optimization algorithms
+networkx>=3.1  # For graph-based route optimization
+geopy>=2.3.0   # For geographical calculations
+requests>=2.31.0  # For external API calls (weather, traffic, etc.)
+
+# Time series forecasting
+statsmodels>=0.14.0
+prophet>=1.1.4  # Facebook Prophet for demand forecasting
+
+# Database optimization
+psycopg2-binary>=2.9.0  # PostgreSQL adapter
+
+# Async processing (for background AI tasks)
+celery>=5.3.0
+redis>=4.6.0
+
+# API enhancements
+django-filter>=23.2
+django-cors-headers>=4.2.0
+
+# Data validation and processing
+jsonschema>=4.18.0
+python-dateutil>=2.8.0
+
+# Optional: For advanced ML features
+# tensorflow>=2.13.0  # Uncomment if using deep learning
+# torch>=2.0.0        # Uncomment if using PyTorch
+# xgboost>=1.7.0      # Uncomment for gradient boosting
+
+# Production optimization
+gunicorn>=21.2.0
+whitenoise>=6.5.0

@@ -1,0 +1,74 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Django Development Server",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-Command",
+				"cd backend; .\\venv\\Scripts\\Activate.ps1; python manage.py runserver"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build",
+			"presentation": {
+				"reveal": "always",
+				"panel": "new"
+			}
+		},
+		{
+			"label": "Start React Development Server",
+			"type": "shell",
+			"command": "npm",
+			"args": ["start"],
+			"options": {
+				"cwd": "${workspaceFolder}/frontend"
+			},
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build",
+			"presentation": {
+				"reveal": "always",
+				"panel": "new"
+			}
+		},
+		{
+			"label": "Django Migrations",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-Command",
+				"cd backend; .\\venv\\Scripts\\Activate.ps1; python manage.py makemigrations; python manage.py migrate"
+			],
+			"group": "build",
+			"presentation": {
+				"reveal": "always",
+				"panel": "new"
+			}
+		},
+		{
+			"label": "Create Django Superuser",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-Command",
+				"cd backend; .\\venv\\Scripts\\Activate.ps1; python manage.py createsuperuser"
+			],
+			"group": "build",
+			"presentation": {
+				"reveal": "always",
+				"panel": "new"
+			}
+		},
+		{
+			"label": "Start Both Servers",
+			"dependsOrder": "parallel",
+			"dependsOn": [
+				"Start Django Development Server",
+				"Start React Development Server"
+			],
+			"group": "build"
+		}
+	]
+}
